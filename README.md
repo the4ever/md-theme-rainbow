@@ -1,5 +1,6 @@
 # theme-rainbow
 markdown-theme-rainbow for SublimeText,EMEditor,EverEdit...
+made by ZL
 
 ## Look in Sublime Text
 
