@@ -10,9 +10,9 @@ made by ZL
 
 ## Theme for EmEditor
 
-![](zl-EM-MD-theme.png)
+![](https://graph.baidu.com/resource/121745802df915b39540501582802112.jpg)
 
 ## Theme for EverEdit
 
-![](zl-EE-MD-theme.png)
+![](https://graph.baidu.com/resource/1211f5a0c5626ce611c4701582802185.jpg)
 
