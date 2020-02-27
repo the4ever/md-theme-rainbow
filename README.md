@@ -14,7 +14,7 @@ made by ZL
 
 ## Theme for Typora
 
-![](https://graph.baidu.com/resource/121b5d64b23723e8be72d01582804296.jpg)
+![](https://graph.baidu.com/resource/12102d64b23723e8be72d01582805240.jpg)
 
 ![](https://graph.baidu.com/resource/121d31d29ec5bf6cae16401582804610.jpg)
 
